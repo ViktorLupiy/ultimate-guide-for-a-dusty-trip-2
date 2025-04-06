@@ -1,0 +1,23 @@
+h1 {
+    font-family: Jersey25;
+    font-size: 46px;
+    display: flex;
+    justify-content: flex-end;
+}
+body{
+    background-color: yellow;
+}
+
+p{
+    font-size: 24px;
+}
+
+img {
+    height: 220px;
+    width: 345px;
+    float: left;
+}
+
+li{
+    font-size: 24px;
+}
